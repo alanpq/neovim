@@ -312,6 +312,22 @@
       "url": "https://github.com/mrcjkb/rustaceanvim/archive/3f327d15a3c1ed48b1e1087e16873a28a39768c2.tar.gz",
       "hash": "09wrfmzbk81xax5p4wzczsvv1x28nv54mayi12fvzv6c3bmcsbvj"
     },
+    "toggleterm.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "akinsho",
+        "repo": "toggleterm.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v2.13.1",
+      "revision": "50ea089fc548917cc3cc16b46a8211833b9e3c7c",
+      "url": "https://api.github.com/repos/akinsho/toggleterm.nvim/tarball/v2.13.1",
+      "hash": "1d4xmjzxd3v7knc8zg01aarxj0p2li29v80qf8p5p0is81jx7kax"
+    },
     "vim-moonfly-colors": {
       "type": "Git",
       "repository": {
