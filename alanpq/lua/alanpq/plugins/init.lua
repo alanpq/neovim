@@ -6,6 +6,8 @@ require("alanpq.plugins.lsp")
 require("alanpq.plugins.markview")
 require("alanpq.plugins.treesitter")
 
+require("alanpq.plugins.conform")
+
 require("alanpq.plugins.oil")
 
 require("alanpq.plugins.lualine")
