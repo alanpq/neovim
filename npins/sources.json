@@ -146,6 +146,22 @@
       "url": "https://github.com/OXY2DEV/markview.nvim/archive/3cc0a687bfddf50eac2370c194f8d7ad14344db2.tar.gz",
       "hash": "0kkswddqlcwqbn7l6v1l2d9n3hp03wp0qhdcrkpnh4w8alljblyp"
     },
+    "mini.bufremove": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "echasnovski",
+        "repo": "mini.bufremove"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v0.15.0",
+      "revision": "8d1990c87755c098d58aac560a309f2d54324505",
+      "url": "https://api.github.com/repos/echasnovski/mini.bufremove/tarball/v0.15.0",
+      "hash": "0q8zm3k8hhpzbcjcd3gqz1r064fiymv9w2lfbdv5hhn2b8i9j7h8"
+    },
     "neogit": {
       "type": "Git",
       "repository": {
