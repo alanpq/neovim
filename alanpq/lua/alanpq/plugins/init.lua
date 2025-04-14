@@ -1,3 +1,5 @@
+require("nvim-web-devicons")
+
 require("alanpq.plugins.fzf")
 require("alanpq.plugins.blink")
 require("alanpq.plugins.lsp")

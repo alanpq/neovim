@@ -1,4 +1,3 @@
-require("nvim-web-devicons")
 require("bufferline").setup({
   options = {
     close_command = function(bufnum)
