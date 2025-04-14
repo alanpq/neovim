@@ -60,6 +60,8 @@ WK.add({
   { "<leader>bmp", ":BufferLineMovePrev<CR>", desc = "Move back" },
   { "<leader>bn", ":BufferLineCycleNext<CR>", desc = "Next" },
   { "<leader>bp", ":BufferLineCyclePrev<CR>", desc = "Prev" },
+  { "<Tab>", ":BufferLineCycleNext<CR>", desc = "Next" },
+  { "<S-Tab>", ":BufferLineCyclePrev<CR>", desc = "Prev" },
   { "<leader>bsd", ":BufferLineSortByDirectory<CR>", desc = "Sort by dir" },
   { "<leader>bse", ":BufferLineSortByExtension<CR>", desc = "Sort by extension" },
 })
