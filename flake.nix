@@ -153,6 +153,7 @@
               stylua
               #rustfmt
               ripgrep
+              fzf
               fd
               chafa
               vscode-langservers-extracted
