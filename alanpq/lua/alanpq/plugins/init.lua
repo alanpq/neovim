@@ -15,4 +15,6 @@ require("alanpq.plugins.oil")
 require("alanpq.plugins.lualine")
 require("alanpq.plugins.bufferline")
 
+require("alanpq.plugins.git")
+
 require("alanpq.plugins.toggleterm")
