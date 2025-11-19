@@ -107,37 +107,37 @@
             require('alanpq')
           '';
 
-          # Add lua config
-          devExcludedPlugins = [
-            ./alanpq
-          ];
-          # Impure path to lua config for devShell
-          devPluginPaths = [
-            "/home/alan/Projects/neovim/alanpq"
-          ];
-
           desktopEntry = false;
 
-          plugins =
-            [
-              #
-              # Add plugins from nixpkgs here
-              #
-              pkgs.vimPlugins.nvim-treesitter.withAllGrammars
-              self.packages.${system}.blink-cmp
-            ]
-            ++ lib.mapAttrsToList (
-              #
-              # This generates plugins from npins sources
-              #
-              pname: pin: (
-                pin
-                // {
-                  inherit pname;
-                  version = builtins.substring 0 8 pin.revision;
-                }
-              )
-            ) (pkgs.callPackages ./npins/sources.nix {});
+          plugins = {
+            start =
+              [
+                #
+                # Add plugins from nixpkgs here
+                #
+                pkgs.vimPlugins.nvim-treesitter.withAllGrammars
+                self.packages.${system}.blink-cmp
+              ]
+              ++ lib.mapAttrsToList (
+                #
+                # This generates plugins from npins sources
+                #
+                pname: pin: (
+                  pin
+                  // {
+                    inherit pname;
+                    version = builtins.substring 0 8 pin.revision;
+                  }
+                )
+              ) (pkgs.callPackages ./npins/sources.nix {});
+            dev.myconfig = {
+              pure = ./alanpq;
+              impure =
+                # This is a hack it should be a absolute path
+                # here it'll only work from this directory
+                "/home/alan/Projects/neovim/alanpq";
+            };
+          };
 
           extraBinPath = builtins.attrValues {
             #
