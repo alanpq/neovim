@@ -64,11 +64,11 @@ WK.add({
 })
 
 -- colorizer
-require("colorizer").setup()
-WK.add({
-	{
-		{ "<leader>c", "<cmd> ColorizerToggle<CR>", desc = "toggle Colorizer" },
-	},
-})
+-- require("colorizer").setup()
+-- WK.add({
+-- 	{
+-- 		{ "<leader>c", "<cmd> ColorizerToggle<CR>", desc = "toggle Colorizer" },
+-- 	},
+-- })
 
 WK.setup()
