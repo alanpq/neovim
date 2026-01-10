@@ -360,6 +360,19 @@
       "url": "https://api.github.com/repos/akinsho/toggleterm.nvim/tarball/v2.13.1",
       "hash": "1d4xmjzxd3v7knc8zg01aarxj0p2li29v80qf8p5p0is81jx7kax"
     },
+    "typescript-tools.nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "pmizio",
+        "repo": "typescript-tools.nvim"
+      },
+      "branch": "master",
+      "submodules": false,
+      "revision": "c2f5910074103705661e9651aa841e0d7eea9932",
+      "url": "https://github.com/pmizio/typescript-tools.nvim/archive/c2f5910074103705661e9651aa841e0d7eea9932.tar.gz",
+      "hash": "0h4v876rfgliynwshpbv2mdrxmimymr07z0j31ggdv9b8p0n5kh8"
+    },
     "vim-moonfly-colors": {
       "type": "Git",
       "repository": {
