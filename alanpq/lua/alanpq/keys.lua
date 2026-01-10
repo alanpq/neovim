@@ -5,6 +5,10 @@ vim.g.mapleader = " "
 
 vim.keymap.set("n", ";", ":", { desc = "CMD enter command mode" })
 
+-- Comment toggle
+vim.keymap.set("n", "<leader>/", "gcc", { desc = "toggle comment", remap = true })
+vim.keymap.set("v", "<leader>/", "gc", { desc = "toggle comment", remap = true })
+
 WK.add({
 	{
 		mode = { "v" },
