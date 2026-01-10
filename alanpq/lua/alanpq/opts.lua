@@ -13,6 +13,9 @@ vim.opt.clipboard = "unnamedplus"
 
 vim.opt.scrolloff = 10
 
+-- https://github.com/neovim/neovim/issues/14433
+vim.g.omni_sql_default_compl_type = "syntax"
+
 --theming
 vim.opt.termguicolors = true
 
