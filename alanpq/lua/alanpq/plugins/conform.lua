@@ -11,6 +11,8 @@ require("conform").setup({
 		python = { "isort", "black" },
 		rust = { "rustfmt", lsp_format = "fallback" },
 
+		qml = { "qmlformat" },
+
 		["*"] = { "codespell" },
 		["_"] = { "trim_whitespace" },
 	},

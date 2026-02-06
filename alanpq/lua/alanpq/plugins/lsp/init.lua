@@ -304,6 +304,8 @@ vim.lsp.config("basedpyright", {
 })
 vim.lsp.enable("basedpyright")
 
+vim.lsp.enable("qmlls")
+
 vim.lsp.enable("tailwindcss")
 vim.lsp.enable("svelte")
 require("typescript-tools").setup({
