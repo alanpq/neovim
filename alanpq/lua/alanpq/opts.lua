@@ -29,6 +29,15 @@ vim.opt.scrolloff = 10
 -- https://github.com/neovim/neovim/issues/14433
 vim.g.omni_sql_default_compl_type = "syntax"
 
+vim.opt.list = true
+vim.opt.listchars = {
+	tab = "🡒 ",
+	space = "·",
+	nbsp = "␣",
+	extends = "⟩",
+	precedes = "⟨",
+}
+
 --theming
 vim.opt.termguicolors = true
 
