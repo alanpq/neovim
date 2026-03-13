@@ -317,7 +317,7 @@ require("typescript-tools").setup({
 		"typescript",
 		"typescriptreact",
 		"typescript.tsx",
-		"svelte",
+		-- "svelte",
 	},
 	handlers = {},
 	settings = {
