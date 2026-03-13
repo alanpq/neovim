@@ -130,8 +130,8 @@ local capabilities = require("blink.cmp").get_lsp_capabilities()
 vim.diagnostic.config({
 	float = { border = "single" },
 	update_in_insert = true,
-	virtual_text = false,
-	virtual_lines = { enable = true, current_line = true },
+	virtual_text = true,
+	virtual_lines = false, --{ enable = true, current_line = true },
 	underline = true,
 	signs = {
 		text = {
