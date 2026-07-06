@@ -228,9 +228,10 @@ vim.g.rustaceanvim = {
 	server = {
 		default_settings = {
 			["rust-analyzer"] = {
-				assist = {
-					importGranularity = "crate",
-					importEnforceGranularity = true,
+				imports = {
+					granularity = {
+						enforce = true,
+					},
 				},
 				inlayHints = {
 					typeHints = { enable = true },
@@ -242,7 +243,8 @@ vim.g.rustaceanvim = {
 					enable = true,
 				},
 				lens = { enable = true },
-				checkOnSave = {
+				checkOnSave = true,
+				check = {
 					command = "clippy",
 					allFeatures = true,
 				},

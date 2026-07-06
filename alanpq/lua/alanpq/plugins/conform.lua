@@ -9,7 +9,7 @@ require("conform").setup({
 		svelte = { "biome", "prettierd", "prettier", stop_after_first = true },
 
 		python = { "isort", "black" },
-		rust = { "rustfmt", lsp_format = "fallback" },
+		rust = { "rustfmt" },
 
 		qml = { "qmlformat" },
 
@@ -23,7 +23,6 @@ require("conform").setup({
 	format_on_save = {
 		-- These options will be passed to conform.format()
 		timeout_ms = 500,
-		-- lsp_format = "fallback",
-		lsp_fallback = true,
+		lsp_format = "fallback",
 	},
 })
