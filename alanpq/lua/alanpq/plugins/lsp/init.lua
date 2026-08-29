@@ -149,6 +149,24 @@ vim.diagnostic.config({
 	},
 })
 
+vim.filetype.add({
+	extension = {
+		rito = "ritobin",
+		ritobin = "ritobin",
+	},
+})
+
+-- Ritobin config
+vim.lsp.config["ritobin_ls"] = {
+	cmd = { "/home/alan/Projects/ritobin-lsp/target/release/ritobin-lsp" },
+
+	filetypes = { "ritobin" },
+
+	root_markers = { { "mod.config.json", "mod.config.toml" }, ".git" },
+	settings = {},
+}
+vim.lsp.enable("ritobin_ls")
+
 -- Nix (nil) config
 
 vim.lsp.config("nil_ls", {
