@@ -26,6 +26,22 @@
       "url": "https://github.com/akinsho/bufferline.nvim/archive/655133c3b4c3e5e05ec549b9f8cc2894ac6f51b3.tar.gz",
       "hash": "0m5363rpbjgvsnbhp9yrivbqj17lmrb5m57lpnq7dgxsmw3hrvk9"
     },
+    "codesettings.nvim": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "mrjones2014",
+        "repo": "codesettings.nvim"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": false,
+      "version": "v1.6.7",
+      "revision": "85301dbdd173c5f22baf09ebe076abeb58a38757",
+      "url": "https://api.github.com/repos/mrjones2014/codesettings.nvim/tarball/v1.6.7",
+      "hash": "1dfsj53nkcpadlim3g8zda8f9089apdnm9dgwj1mlvc6rngyhj7d"
+    },
     "conform.nvim": {
       "type": "GitRelease",
       "repository": {
