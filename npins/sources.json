@@ -67,9 +67,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "694357861ec9ebf12475ddcdd04ea45a0923c32d",
-      "url": "https://github.com/Saecki/crates.nvim/archive/694357861ec9ebf12475ddcdd04ea45a0923c32d.tar.gz",
-      "hash": "1841gc5rxyl811rn07i7zr5agnwax51rddlzhl6dhw32pgww5apv"
+      "revision": "7039bc1d130e424232a7aa64ceddb170a154ff5b",
+      "url": "https://github.com/Saecki/crates.nvim/archive/7039bc1d130e424232a7aa64ceddb170a154ff5b.tar.gz",
+      "hash": "070m5fxln10bn6c4jixpvn6anasm5qr865fqjm42nbzrwi3px7y9"
     },
     "fzf-lua": {
       "type": "Git",
@@ -80,9 +80,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "33fe4b6f0c817c4d99a7baeea82c4d17e57efd64",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/33fe4b6f0c817c4d99a7baeea82c4d17e57efd64.tar.gz",
-      "hash": "09mbaly93zvxsfks13q0b7nnxkj9rw4xbbq90fbdl0lmcv84qlam"
+      "revision": "ec1b98d3f5f44a1cff1f2c3832af2f09c3d806ca",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/ec1b98d3f5f44a1cff1f2c3832af2f09c3d806ca.tar.gz",
+      "hash": "0id6h06c937x2935nly235zfhcmrlah19i3vmps4shy87m99kw3s"
     },
     "gitsigns.nvim": {
       "type": "Git",
@@ -93,9 +93,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "dd3f588bacbeb041be6facf1742e42097f62165d",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/dd3f588bacbeb041be6facf1742e42097f62165d.tar.gz",
-      "hash": "02syz5ajd59c012hzm1cgf72yc27g47rn66w1m2qynqibhxai761"
+      "revision": "070a5d7b985546cc57e1fc61e5bc507fecac6045",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/070a5d7b985546cc57e1fc61e5bc507fecac6045.tar.gz",
+      "hash": "1kywgim7ycjznhif0chpabr2y15bfjpishbcr0nxmiaxmdi7rkna"
     },
     "indent-blankline.nvim": {
       "type": "Git",
@@ -106,9 +106,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "d28a3f70721c79e3c5f6693057ae929f3d9c0a03",
-      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/d28a3f70721c79e3c5f6693057ae929f3d9c0a03.tar.gz",
-      "hash": "0n3yalz8nnv5m07r86lh2r5kqvfb6m9wxz51m12y5simzryzvkjm"
+      "revision": "f1e186e44d3b7f9ae918008e2c28ce37c6023d2d",
+      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/f1e186e44d3b7f9ae918008e2c28ce37c6023d2d.tar.gz",
+      "hash": "0g3ki4cgh7ibv74gdxanmjfdv961qzimqlh1dv17z9k04mgdlp5x"
     },
     "lazydev.nvim": {
       "type": "Git",
@@ -145,9 +145,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "131a558e13f9f28b15cd235557150ccb23f89286",
-      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/131a558e13f9f28b15cd235557150ccb23f89286.tar.gz",
-      "hash": "04n65s57vcgbah36g0hz5yvmwmchn59znvviqqcl9wrh7rj4mqp7"
+      "revision": "221ce6b2d999187044529f49da6554a92f740a96",
+      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/221ce6b2d999187044529f49da6554a92f740a96.tar.gz",
+      "hash": "100jgcrv4k1rivszx2xd51qb2hxra20rhdvlzkg8yxq4gnxwdy78"
     },
     "markview.nvim": {
       "type": "Git",
@@ -158,9 +158,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "dbf74b6db11c1468d5128a38b26b6d99dc7316e9",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/dbf74b6db11c1468d5128a38b26b6d99dc7316e9.tar.gz",
-      "hash": "08fk4pw8xjj0gy5yiy5j5hn9lpcix801nyg3j1xh1f8iixjwhdir"
+      "revision": "190bb227c9d3eb4451b81fa16ea3d2efde2d67c5",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/190bb227c9d3eb4451b81fa16ea3d2efde2d67c5.tar.gz",
+      "hash": "0w0f4agj67n2inr73k0bvl0xm02nav6kavrma5vfmz1s2s4zrcfh"
     },
     "mini.bufremove": {
       "type": "GitRelease",
@@ -173,10 +173,10 @@
       "version_upper_bound": null,
       "release_prefix": null,
       "submodules": false,
-      "version": "v0.17.0",
-      "revision": "41b0652999f2477effaebc3bbf575b9eb310d5cc",
-      "url": "https://api.github.com/repos/echasnovski/mini.bufremove/tarball/v0.17.0",
-      "hash": "12m9z1pzjgnpqi68rpa57sn95m0yj69mh0iy13w046r0pdcz0505"
+      "version": "v0.18.0",
+      "revision": "2bb8ee5f9e1bf4f6405fb0740220453632e6b913",
+      "url": "https://api.github.com/repos/echasnovski/mini.bufremove/tarball/v0.18.0",
+      "hash": "1fgiqqkbas4rblm0hig5089gfhlks23a95hhh39z8sh7sgmrwmjd"
     },
     "neogit": {
       "type": "Git",
@@ -187,9 +187,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "395ac481e197784e410b59b987fadaf9e7481df1",
-      "url": "https://github.com/NeogitOrg/neogit/archive/395ac481e197784e410b59b987fadaf9e7481df1.tar.gz",
-      "hash": "1y7jg2vimplj92d673rflixsya2pm09qs5laxg0wj550qdzh4amj"
+      "revision": "c51a1dc7e0e0f40c4c396a2b1ceaa44b44e96032",
+      "url": "https://github.com/NeogitOrg/neogit/archive/c51a1dc7e0e0f40c4c396a2b1ceaa44b44e96032.tar.gz",
+      "hash": "03garrdygczzf5zhiswkr5c4vnk807l6fdlrwr0zpya9bv0221v4"
     },
     "noice.nvim": {
       "type": "Git",
@@ -213,9 +213,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "241ff8214b4ec051eb51e74a61ff729c0271b429",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/241ff8214b4ec051eb51e74a61ff729c0271b429.tar.gz",
-      "hash": "02wr8wzj4zpjb8bm96fn6kkbwi6swvxfp8m6j5fwzfc32h0ng6dn"
+      "revision": "c4b82bb63b13856ba4d6b971b7aad3bb38fc6fe2",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/c4b82bb63b13856ba4d6b971b7aad3bb38fc6fe2.tar.gz",
+      "hash": "17ng97l665q8ay2my1pk6vazvwp4mff6mgprzs9sdl82bm3a5s6g"
     },
     "nui.nvim": {
       "type": "Git",
@@ -226,9 +226,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "de740991c12411b663994b2860f1a4fd0937c130",
-      "url": "https://github.com/MunifTanjim/nui.nvim/archive/de740991c12411b663994b2860f1a4fd0937c130.tar.gz",
-      "hash": "0l1ga86dr2rhfjshiicsw3nn03wrhmdqks8v1gn3xmzdgfd2anz3"
+      "revision": "10fc361835c856ba4233ef5ea135b919bf3dce97",
+      "url": "https://github.com/MunifTanjim/nui.nvim/archive/10fc361835c856ba4233ef5ea135b919bf3dce97.tar.gz",
+      "hash": "1djkrv6nfw7zc2k1nlf5jfdny3vqq38lbc4xwygcipqvjh1pv6jh"
     },
     "nvim-colorizer.lua": {
       "type": "Git",
@@ -239,9 +239,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "5cfe7fffbd01e17b3c1e14af85d5febdef88bd8c",
-      "url": "https://github.com/catgoose/nvim-colorizer.lua/archive/5cfe7fffbd01e17b3c1e14af85d5febdef88bd8c.tar.gz",
-      "hash": "0x5lnm1hjrqdklr2fbjnwy1gyf40l9allqr8il74p4mcp1lwdv9r"
+      "revision": "72a05f62c52241bc7441c820eb53946f92b2e6a4",
+      "url": "https://github.com/catgoose/nvim-colorizer.lua/archive/72a05f62c52241bc7441c820eb53946f92b2e6a4.tar.gz",
+      "hash": "1igvp1jfzs07kqg621lzgwipi3fys0cf4nj9zn1sa14jbvry9nc5"
     },
     "nvim-lspconfig": {
       "type": "Git",
@@ -252,9 +252,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "451d4ef9abd4f0f08e379ef0d55d1c391b6125a7",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/451d4ef9abd4f0f08e379ef0d55d1c391b6125a7.tar.gz",
-      "hash": "1if4662a8dcvppg6f515v2xk8nf7visiwiy90sih1zqv8cxqnk0h"
+      "revision": "a9bb4d5f4276aa5cddc015faa3ecc5a7b5a26b14",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/a9bb4d5f4276aa5cddc015faa3ecc5a7b5a26b14.tar.gz",
+      "hash": "00wsqi4iky8s6lv0ry5y2sa4yrnra492lfq37l9s20z9pf9n4wgm"
     },
     "nvim-notify": {
       "type": "Git",
@@ -278,9 +278,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "f9bfc0059eca24546b69a7006110463da4808f8f",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/f9bfc0059eca24546b69a7006110463da4808f8f.tar.gz",
-      "hash": "0n7315npbvml069yx13fljajv7rax5f73jli7kphiijp0szja1ij"
+      "revision": "478c69c0fe253caea88de9c5e138bfa77395a59a",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/478c69c0fe253caea88de9c5e138bfa77395a59a.tar.gz",
+      "hash": "15sfc1na7cdkv1djiwhvjprg89v55fgyxxxm6ibjf1171zym1j45"
     },
     "nvim-web-devicons": {
       "type": "Git",
@@ -291,9 +291,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "4fc505ac7bd7692824a142e96e5f529c133862f8",
-      "url": "https://github.com/nvim-tree/nvim-web-devicons/archive/4fc505ac7bd7692824a142e96e5f529c133862f8.tar.gz",
-      "hash": "1w4cvlzgk3ddghkx1s2rdmfblgcsir9223d2b9jb9csd1xm2cb0i"
+      "revision": "58447c1fca354bbf184425e4a8d01deecbd6f3c4",
+      "url": "https://github.com/nvim-tree/nvim-web-devicons/archive/58447c1fca354bbf184425e4a8d01deecbd6f3c4.tar.gz",
+      "hash": "1xw4zjx0jqkc3dnizfsl9w3gxpmji54c3bf3f3y691zp24ivbc78"
     },
     "oil.nvim": {
       "type": "Git",
@@ -304,9 +304,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "0fcc83805ad11cf714a949c98c605ed717e0b83e",
-      "url": "https://github.com/stevearc/oil.nvim/archive/0fcc83805ad11cf714a949c98c605ed717e0b83e.tar.gz",
-      "hash": "0zbnzpb3g18dmwi4b39g79i4sbwhw15m254kd5sbc29cs6hd1146"
+      "revision": "b73018b75affd13fa38e2fc94ef753b465f770d7",
+      "url": "https://github.com/stevearc/oil.nvim/archive/b73018b75affd13fa38e2fc94ef753b465f770d7.tar.gz",
+      "hash": "0gfypyay37jnbphs5vqqqyr2wlg4n68dkvfisw8nf1c4hccpdjs3"
     },
     "plenary.nvim": {
       "type": "Git",
@@ -330,9 +330,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "08783ec022e7ddefe0f12a16f1ac4968f55478b0",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/08783ec022e7ddefe0f12a16f1ac4968f55478b0.tar.gz",
-      "hash": "0gvndsv9d8qh3j38zlhc8fz238dg0hf0q8lcj4gbfzaphrprwwkd"
+      "revision": "3a0fc08dd39e8bf034a4cfef3f2845bd5f565a2e",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/3a0fc08dd39e8bf034a4cfef3f2845bd5f565a2e.tar.gz",
+      "hash": "0aay17zs0vk4r1xws44n38b7ymjaxdpkcp9irhl3cl43yg765v98"
     },
     "rust-tools.nvim": {
       "type": "Git",
@@ -356,9 +356,9 @@
       },
       "branch": "main",
       "submodules": false,
-      "revision": "524d8bedd31c0e5ca6de4fa344750401d109c0af",
-      "url": "https://github.com/mrcjkb/rustaceanvim/archive/524d8bedd31c0e5ca6de4fa344750401d109c0af.tar.gz",
-      "hash": "054j4j3afhchvzjbh44346b4bajxmxryavzvlw0xzy6c30p7al46"
+      "revision": "a968f5133b8b24f481de12f08cd79420d1ace559",
+      "url": "https://github.com/mrcjkb/rustaceanvim/archive/a968f5133b8b24f481de12f08cd79420d1ace559.tar.gz",
+      "hash": "1p91clqg2dz7788kw1ivmimn55b4dmiifvn5pbd1c1nccjcb838n"
     },
     "toggleterm.nvim": {
       "type": "Git",
@@ -395,9 +395,9 @@
       },
       "branch": "master",
       "submodules": false,
-      "revision": "4ed07bc0c6083cdd547c63f5c245e02c068b0c45",
-      "url": "https://github.com/bluz71/vim-moonfly-colors/archive/4ed07bc0c6083cdd547c63f5c245e02c068b0c45.tar.gz",
-      "hash": "08xvsj2dlxj44hagj2ibq12d9ch3p0knkpn7zn1pzgjxr7hpihgg"
+      "revision": "2c883835f5b7b380a0a9e80695c420f7efebdfe4",
+      "url": "https://github.com/bluz71/vim-moonfly-colors/archive/2c883835f5b7b380a0a9e80695c420f7efebdfe4.tar.gz",
+      "hash": "0izidk3mb42615w2ywd0bn2m8digavnynjhmdk7wjshgql7gsjz5"
     },
     "vim-vsnip": {
       "type": "Git",
