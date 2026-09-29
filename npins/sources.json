@@ -43,20 +43,17 @@
       "hash": "1dfsj53nkcpadlim3g8zda8f9089apdnm9dgwj1mlvc6rngyhj7d"
     },
     "conform.nvim": {
-      "type": "GitRelease",
+      "type": "Git",
       "repository": {
         "type": "GitHub",
         "owner": "stevearc",
         "repo": "conform.nvim"
       },
-      "pre_releases": false,
-      "version_upper_bound": null,
-      "release_prefix": null,
+      "branch": "master",
       "submodules": false,
-      "version": "v9.1.0",
-      "revision": "3543d000dafbc41cc7761d860cfdb24e82154f75",
-      "url": "https://api.github.com/repos/stevearc/conform.nvim/tarball/v9.1.0",
-      "hash": "16wqwjmlavgzj468pikz92711kylgm0j8p2lp6ck03r8jhbpshd5"
+      "revision": "016802de402556da54c36bd7359b441266b01cdd",
+      "url": "https://github.com/stevearc/conform.nvim/archive/016802de402556da54c36bd7359b441266b01cdd.tar.gz",
+      "hash": "1q1b5dg6x1ch2w16axq3ppvc9yjz2vqlyqfswv74ysh3k4p10ngd"
     },
     "crates.nvim": {
       "type": "Git",
